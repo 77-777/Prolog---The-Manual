@@ -116,6 +116,8 @@ Please use your respective *nix package manager.
 
 ### Regex & Levenshtein
 
+### Cryptography
+
 ### Parsing HTML/JSON/XML
 
 ### Error Handling & Exceptions
@@ -125,6 +127,8 @@ Please use your respective *nix package manager.
 
 
 ### Database Access / ORM
+
+### Graphics
 
 ### Keywords in Prolog
 
