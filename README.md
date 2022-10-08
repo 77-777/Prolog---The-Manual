@@ -269,6 +269,12 @@ Clarity. Avoid surprises. DRY principle. SOLID principle if using OOP.
 
 ### Terminology
 
+* Predicates
+
+* Facts
+
+* Rules
+
 
 ### Declarative/LoGICAL Paradigm Aims
 
