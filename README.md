@@ -101,6 +101,12 @@ Please use your respective *nix package manager.
 
 ```
 
+### Web Automation
+
+```prolog
+
+```
+
 ### Data Structures
 
 ```prolog
